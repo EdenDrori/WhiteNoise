@@ -1,0 +1,73 @@
+{
+  "header": { "toggle": "EN / HE", "brand": "White-Noise" },
+  "hero": {
+    "title": "Enhancing commercial spaces with signature sound",
+    "subtitle": "Hear, feel, and connect through immersive audio.",
+    "button": "Contact Us",
+    "title2": "Your Limits",
+    "subtitle2": "Dive into vibrant, luxurious sound that turns every moment into an unforgettable memory.",
+    "button2": "Book Your Sound"
+  },
+  "products": {
+    "venu": {
+      "title": "Venu V2 Series",
+      "desc": "Passive two-way mid/high speakers (6.5″–15″), rotatable horn for consistent dispersion."
+    },
+    "xair": {
+      "title": "Stasys Xair",
+      "desc": "Dual-18″ horn-loaded LF, 3200 W AES, 30 Hz–180 Hz ±3 dB, TourCoat finish."
+    },
+    "tri": {
+      "title": "Tri Motion",
+      "desc": "Three-way bi-amped: 15″ LF, 8″ MF, 1.5″ HF, 120 Hz–20 kHz ±3 dB, 90°×60° waveguides."
+    }
+  },
+  "imageSection": {
+    "title": "Feel Sound, Live Moments",
+    "desc": "Our systems deliver deep, immersive sound with pristine clarity and dynamic power, ensuring every moment resonates with lasting impact."
+  },
+  "formSection": {
+    "title": "Let's Make Some Noise Together",
+    "desc": "Be the first to unlock exclusive offers, inspired event ideas, and the pinnacle of luxury sound.",
+    "submitSuccess":  "Thank you! Your details have been saved and a representative will contact you shortly."
+
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "connect": "Let's Connect",
+    "submitting": "Submitting...",
+    "saved": "Information saved!",
+    "moreDetails": "Please specify more about your event.",
+    "eventDate": "Event Date",
+    "eventType": "Event Type",
+    "eventLocation": "Event Location",
+    "guestCount": "Number of Guests",
+    "submitDetails": "Submit Details",
+    "company": "Company",
+    "message": "Message",
+    "submit": "Send Inquiry",
+    "eventTypeOptions": {
+      "wedding": "Wedding",
+      "party": "Party/Festival",
+      "business": "Business Event",
+      "private": "Private Event",
+      "other": "Other"
+    },
+    "guestCountOptions": {
+      "0_250": "0-250",
+      "250_500": "250-500",
+      "500_750": "500-750",
+      "750_1000": "750-1000",
+      "other": "Other"
+    },
+    "eventTypePlaceholder": "Select event type",
+    "guestCountPlaceholder": "Select number of guests",
+    "eventLocationPlaceholder": "Select event location",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "Enter your email",
+    "phonePlaceholder": "Enter your phone"
+  },
+  "footer": { "copyright": "© 2025 White-Noise. All rights reserved." }
+}
